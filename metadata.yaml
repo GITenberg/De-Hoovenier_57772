@@ -1,5 +1,5 @@
 _repo: De-Hoovenier_57772
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Eeden, Frederik van
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '2981'
     url: http://www.gutenberg.org/2009/agents/2981
     wikipedia: http://en.wikipedia.org/wiki/Frederik_van_Eeden
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tagore, Rabindranath
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/942
     wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57772#De-Hoovenier
 gutenberg_issued: '2018-08-25'
 gutenberg_type: Text
 identifiers:
